@@ -1,0 +1,11 @@
+2020/05/05 15:47:40 error : %!v(MISSING)
+2020/05/05 15:48:37 error : open /path/to/config.yaml: no such file or directory
+Error : Can't Open the file
+main.ReadConfig
+	/Users/gnanak/go_exercises/go_basics/package_errors.go:20
+main.main
+	/Users/gnanak/go_exercises/go_basics/package_errors.go:37
+runtime.main
+	/usr/local/go/src/runtime/proc.go:203
+runtime.goexit
+	/usr/local/go/src/runtime/asm_amd64.s:1373
